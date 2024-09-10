@@ -1,0 +1,5 @@
+py -m venv venv - Comando para criar um ambiente virtual
+
+.\venv\Scripts\Activate - Comando para ativar o ambiente virtual.
+
+deactivate - Comando para desativar o ambiente virtual.
